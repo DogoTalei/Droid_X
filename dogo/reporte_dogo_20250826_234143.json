@@ -1,0 +1,756 @@
+{
+  "info_dispositivo": {
+    "Modelo": "2201117TL",
+    "Fabricante": "Xiaomi",
+    "Versión Android": "13",
+    "Versión SDK": "33",
+    "Acceso Root": "No",
+    "Bootloader Bloqueado": "Sí"
+  },
+  "fecha_analisis": "2025-08-26T23:41:43.7994088-06:00",
+  "analisis_avanzado": {
+    "admins_dispositivo": [],
+    "servicios_accesibilidad_activos": []
+  },
+  "resumen": {
+    "total_alto_riesgo": 0,
+    "total_adware": 50
+  },
+  "apps_alto_riesgo": [],
+  "apps_potencial_adware": [
+    {
+      "paquete": "com.itopvpn.oneconnect.freeservers",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "1.0.0",
+      "ruta_apk": "/data/app/~~0n7Paix0XXAniWA2_SXLOw==/com.itopvpn.oneconnect.freeservers-7yBo8i-hpkWgnsFst7wheA==",
+      "NombreApp": "com.itopvpn.oneconnect.freeservers",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.rec.screen",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "2.7.2",
+      "ruta_apk": "/data/app/~~_Zqkn70erwFBGh0EMW_deA==/com.rec.screen-wxnpnxi6gNoNjrvYEV7Z5g==",
+      "NombreApp": "com.rec.screen",
+      "VtScore": null
+    },
+    {
+      "paquete": "cn.wps.xiaomi.abroad.lite",
+      "permisos": [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "2.6.6",
+      "ruta_apk": "/data/app/GlobalWPSLITE",
+      "NombreApp": "cn.wps.xiaomi.abroad.lite",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.apps.googleassistant",
+      "permisos": [
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "version": "0.1.766117055",
+      "ruta_apk": "/data/app/~~GwwaRHVE5BMH4pCLRm6iDg==/com.google.android.apps.googleassistant-Png3RPHpROIp_L5FOiqmWw==",
+      "NombreApp": "com.google.android.apps.googleassistant",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.onetimeinitializer",
+      "permisos": [
+        "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+      ],
+      "version": "13-8768315",
+      "ruta_apk": "/product/priv-app/GoogleOneTimeInitializer",
+      "NombreApp": "com.google.android.onetimeinitializer",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.xiaomi.cameratools",
+      "permisos": [
+        "android.permission.INTERNET"
+      ],
+      "version": "24.01.08.0",
+      "ruta_apk": "/product/app/CameraTools_beta",
+      "NombreApp": "com.xiaomi.cameratools",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.miui.extraphoto",
+      "permisos": [
+        "android.permission.WRITE_MEDIA_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "1.8.7.4.0-global",
+      "ruta_apk": "/product/priv-app/ExtraPhotoGlobal",
+      "NombreApp": "com.miui.extraphoto",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.apps.authenticator2",
+      "permisos": [
+        "android.permission.INTERNET",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "7.0",
+      "ruta_apk": "/data/app/~~iLJgk81Co531yFIr75fR2A==/com.google.android.apps.authenticator2-mrysRVTSWbG9pxcxowwj2Q==",
+      "NombreApp": "com.google.android.apps.authenticator2",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.quicinc.voice.activation",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.CAPTURE_AUDIO_HOTWORD",
+        "android.permission.START_ACTIVITIES_FROM_BACKGROUND",
+        "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+        "android.permission.WAKE_LOCK",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "version": "4.3.0",
+      "ruta_apk": "/system_ext/priv-app/QualcommVoiceActivation",
+      "NombreApp": "com.quicinc.voice.activation",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.compassfree.digitalcompass.forandroid.app",
+      "permisos": [
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "3.1.3",
+      "ruta_apk": "/data/app/~~l2Fi9WWyKvzzNt91QXyceQ==/com.compassfree.digitalcompass.forandroid.app-N3CN7EJ2wUQJTUZ02naprA==",
+      "NombreApp": "com.compassfree.digitalcompass.forandroid.app",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.qti.performancemode",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+      ],
+      "version": "13",
+      "ruta_apk": "/system_ext/app/PerformanceMode",
+      "NombreApp": "com.qualcomm.qti.performancemode",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.qti.ridemodeaudio",
+      "permisos": [
+        "android.permission.INTERNET",
+        "android.permission.READ_PRECISE_PHONE_STATE",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "13",
+      "ruta_apk": "/product/app/RideModeAudio",
+      "NombreApp": "com.qualcomm.qti.ridemodeaudio",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.configupdater",
+      "permisos": [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.UPDATE_CONFIG"
+      ],
+      "version": "13-11163131",
+      "ruta_apk": "/product/priv-app/ConfigUpdater",
+      "NombreApp": "com.google.android.configupdater",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.pacprocessor",
+      "permisos": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "version": "13",
+      "ruta_apk": "/system/app/PacProcessor",
+      "NombreApp": "com.android.pacprocessor",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.certinstaller",
+      "permisos": [
+        "android.permission.ACCESS_ALL_DOWNLOADS",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.MANAGE_USERS",
+        "android.permission.HIDE_NON_SYSTEM_OVERLAY_WINDOWS",
+        "android.permission.ACCESS_WIFI_STATE"
+      ],
+      "version": "13",
+      "ruta_apk": "/system/app/CertInstaller",
+      "NombreApp": "com.android.certinstaller",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.wifi.dialog",
+      "permisos": [
+        "android.permission.VIBRATE"
+      ],
+      "version": "13",
+      "ruta_apk": "/system/priv-app/MiuiWifiDialog",
+      "NombreApp": "com.android.wifi.dialog",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.hotwordenrollment.xgoogle",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.KEYPHRASE_ENROLLMENT_APPLICATION",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "13",
+      "ruta_apk": "/product/priv-app/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND",
+      "NombreApp": "com.android.hotwordenrollment.xgoogle",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.wfd.service",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.ACCESS_SURFACE_FLINGER",
+        "android.permission.INTERNET",
+        "android.permission.CAPTURE_SECURE_VIDEO_OUTPUT",
+        "android.permission.CAPTURE_VIDEO_OUTPUT",
+        "android.permission.INJECT_EVENTS",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "2.0",
+      "ruta_apk": "/system_ext/priv-app/WfdService",
+      "NombreApp": "com.qualcomm.wfd.service",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.mobiledirection.easyanyrouteradmin192",
+      "permisos": [
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "3.9",
+      "ruta_apk": "/data/app/~~eG0b1Y53nWsELw6u0a3frg==/com.mobiledirection.easyanyrouteradmin192-ikvWrmeYROJXTBNSAnm-Ng==",
+      "NombreApp": "com.mobiledirection.easyanyrouteradmin192",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.sdksandbox",
+      "permisos": [
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.READ_BASIC_PHONE_STATE"
+      ],
+      "version": "T-initial",
+      "ruta_apk": "/apex/com.android.adservices/app/SdkSandboxGoogle@360526040",
+      "NombreApp": "com.google.android.sdksandbox",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.goodix.gftest",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE"
+      ],
+      "version": "1.1.01",
+      "ruta_apk": "/product/app/GoodixGFTest",
+      "NombreApp": "com.goodix.gftest",
+      "VtScore": null
+    },
+    {
+      "paquete": "org.codeaurora.ims",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.READ_PRECISE_PHONE_STATE",
+        "android.permission.INTERACT_ACROSS_USERS_FULL",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.BROADCAST_STICKY",
+        "android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.CREATE_USERS",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.CAMERA"
+      ],
+      "version": "1.0",
+      "ruta_apk": "/system_ext/priv-app/ims",
+      "NombreApp": "org.codeaurora.ims",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.koushikdutta.vysor",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "version": "4.2.2",
+      "ruta_apk": "/data/app/~~MEt8Cq8AV4JN_FoPzZYktA==/com.koushikdutta.vysor-hmoGq0gLtSPZ4kwXLVpI4w==",
+      "NombreApp": "com.koushikdutta.vysor",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.miui.android.fashiongallery",
+      "permisos": [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        "android.permission.WRITE_SETTINGS",
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.INTERNAL_SYSTEM_WINDOW",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.EXPAND_STATUS_BAR",
+        "android.permission.GET_TASKS",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.SET_WALLPAPER",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "3.22.1",
+      "ruta_apk": "/data/app/~~z1Mp7qH9UsbepCV9oyfvcQ==/com.miui.android.fashiongallery-wg4tj2pVrcGI5pmu178uPw==",
+      "NombreApp": "com.miui.android.fashiongallery",
+      "VtScore": null
+    },
+    {
+      "paquete": "imagetopdf.pdfconverter.jpgtopdf.pdfeditor",
+      "permisos": [
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "1.7.2",
+      "ruta_apk": "/data/app/~~AyVMxjtKN58Jw-c7hconRg==/imagetopdf.pdfconverter.jpgtopdf.pdfeditor-z0Bf4dmeKbKA22iTMvz9Gg==",
+      "NombreApp": "imagetopdf.pdfconverter.jpgtopdf.pdfeditor",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.hotwordenrollment.okgoogle",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.KEYPHRASE_ENROLLMENT_APPLICATION",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "13",
+      "ruta_apk": "/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND",
+      "NombreApp": "com.android.hotwordenrollment.okgoogle",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.fido.asm",
+      "permisos": [
+        "android.permission.NFC",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_FINGERPRINT",
+        "android.permission.BLUETOOTH_PRIVILEGED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.START_ACTIVITIES_FROM_BACKGROUND",
+        "android.permission.USE_BIOMETRIC"
+      ],
+      "version": "1.0.230706.1",
+      "ruta_apk": "/product/app/FidoAuthen",
+      "NombreApp": "com.fido.asm",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.captiveportallogin",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.MAINLINE_NETWORK_STACK",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.READ_DEVICE_CONFIG",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "15",
+      "ruta_apk": "/data/app/~~eazujW5c5zYDFeesS8gUoQ==/com.google.android.captiveportallogin-arvDnKk713V70EEM5KfcoQ==",
+      "NombreApp": "com.google.android.captiveportallogin",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.apps.bard",
+      "permisos": [
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "1.0.795460806",
+      "ruta_apk": "/data/app/~~kS4CHo_OwCTr5mB9gcNjZA==/com.google.android.apps.bard-ZOCHecXL2pjLimGDYUqwtg==",
+      "NombreApp": "com.google.android.apps.bard",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.amazon.appmanager",
+      "permisos": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "1.0.200309.0",
+      "ruta_apk": "/data/app/~~ILFRIbarJGCPd8TOiNsmQw==/com.amazon.appmanager-rPnmJZpE_rFnWqosOTXyLA==",
+      "NombreApp": "com.amazon.appmanager",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.aimp.player",
+      "permisos": [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_AUDIO"
+      ],
+      "version": "v4.15.1565 (09.06.2025)",
+      "ruta_apk": "/data/app/~~Z_6EFZNpMvOy4Q5Ac9YSqQ==/com.aimp.player-0e4HeXyOAPXKp8fJoN96ew==",
+      "NombreApp": "com.aimp.player",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.carrierdefaultapp",
+      "permisos": [
+        "android.permission.NETWORK_BYPASS_PRIVATE_DNS",
+        "android.permission.INTERNET",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS",
+        "android.permission.CONNECTIVITY_INTERNAL",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "13",
+      "ruta_apk": "/system/app/CarrierDefaultApp",
+      "NombreApp": "com.android.carrierdefaultapp",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.qti.powersavemode",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+      ],
+      "version": "13",
+      "ruta_apk": "/system_ext/app/PowerSaveMode",
+      "NombreApp": "com.qualcomm.qti.powersavemode",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.proxyhandler",
+      "permisos": [
+        "android.permission.INTERNET"
+      ],
+      "version": "13",
+      "ruta_apk": "/system/priv-app/ProxyHandler",
+      "NombreApp": "com.android.proxyhandler",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.printservice.recommendation",
+      "permisos": [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        "android.permission.INTERNET"
+      ],
+      "version": "1.3.0",
+      "ruta_apk": "/system/app/GooglePrintRecommendationService",
+      "NombreApp": "com.google.android.printservice.recommendation",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.fingerprints.sensortesttool",
+      "permisos": [
+        "android.permission.VIBRATE",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "3.54",
+      "ruta_apk": "/product/app/SensorTestTool",
+      "NombreApp": "com.fingerprints.sensortesttool",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.boundax.koreapreloadappinstaller",
+      "permisos": [
+        "android.permission.INSTALL_PACKAGES",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.STATUS_BAR",
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "2.4.0",
+      "ruta_apk": "/system/priv-app/skt-appinstaller",
+      "NombreApp": "com.boundax.koreapreloadappinstaller",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.dreams.phototable",
+      "permisos": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "13",
+      "ruta_apk": "/product/app/PhotoTable",
+      "NombreApp": "com.android.dreams.phototable",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.wdstechnology.android.kryten",
+      "permisos": [
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.WRITE_APN_SETTINGS",
+        "android.permission.START_ACTIVITIES_FROM_BACKGROUND",
+        "android.permission.VIBRATE",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECEIVE_WAP_PUSH",
+        "android.permission.RECEIVE_SMS"
+      ],
+      "version": "1.0.0",
+      "ruta_apk": "/system_ext/priv-app/ConfigurationClient",
+      "NombreApp": "com.wdstechnology.android.kryten",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.remoteprovisioner",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK"
+      ],
+      "version": "13",
+      "ruta_apk": "/system_ext/priv-app/RemoteProvisioner",
+      "NombreApp": "com.android.remoteprovisioner",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.android.hotspot2.osulogin",
+      "permisos": [
+        "android.permission.INTERNET",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "version": "13",
+      "ruta_apk": "/apex/com.android.wifi/app/OsuLogin@TKQ1.221114.001",
+      "NombreApp": "com.android.hotspot2.osulogin",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.miui.fmservice",
+      "permisos": [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.MODIFY_AUDIO_ROUTING",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_BROADCAST_RADIO",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.CAPTURE_AUDIO_OUTPUT",
+        "android.permission.VIBRATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "23.0.5",
+      "ruta_apk": "/system/app/FM_QCOM",
+      "NombreApp": "com.miui.fmservice",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.cellbroadcastreceiver",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.MODIFY_CELL_BROADCASTS",
+        "android.permission.MANAGE_USERS",
+        "android.permission.DISABLE_KEYGUARD",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+        "android.permission.START_ACTIVITIES_FROM_BACKGROUND",
+        "android.permission.HIDE_NON_SYSTEM_OVERLAY_WINDOWS",
+        "android.permission.VIBRATE",
+        "android.permission.RECEIVE_EMERGENCY_BROADCAST",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.STATUS_BAR",
+        "android.permission.WAKE_LOCK",
+        "android.permission.READ_SMS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.READ_CELL_BROADCASTS"
+      ],
+      "version": "R-initial",
+      "ruta_apk": "/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@351511000",
+      "NombreApp": "com.google.android.cellbroadcastreceiver",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.qti.qms.service.trustzoneaccess",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "11",
+      "ruta_apk": "/vendor/app/TrustZoneAccessService",
+      "NombreApp": "com.qualcomm.qti.qms.service.trustzoneaccess",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qti.qcc",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.ACCESS_WIFI_STATE"
+      ],
+      "version": "QCC13.1-20230213-946418b4",
+      "ruta_apk": "/system_ext/app/QCC",
+      "NombreApp": "com.qti.qcc",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.qtil.btdsda",
+      "permisos": [
+        "android.permission.MANAGE_ACTIVITY_TASKS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.BLUETOOTH_PRIVILEGED",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.CONTROL_INCALL_EXPERIENCE",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.READ_CONTACTS"
+      ],
+      "version": "13",
+      "ruta_apk": "/system_ext/app/BluetoothDsDaService",
+      "NombreApp": "com.qualcomm.qtil.btdsda",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.timeservice",
+      "permisos": [
+        "android.permission.WAKE_LOCK",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "12",
+      "ruta_apk": "/vendor/app/TimeService",
+      "NombreApp": "com.qualcomm.timeservice",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.qualcomm.embms",
+      "permisos": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.INTERNET"
+      ],
+      "version": "1.0",
+      "ruta_apk": "/system_ext/app/embms",
+      "NombreApp": "com.qualcomm.embms",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.apps.googleassistant",
+      "permisos": [
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "version": "0.1.474378801",
+      "ruta_apk": "/product/priv-app/GoogleAssistant",
+      "NombreApp": "com.google.android.apps.googleassistant",
+      "VtScore": null
+    },
+    {
+      "paquete": "com.google.android.captiveportallogin",
+      "permisos": [
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.MAINLINE_NETWORK_STACK",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.READ_DEVICE_CONFIG",
+        "android.permission.POST_NOTIFICATIONS"
+      ],
+      "version": "14-11181361",
+      "ruta_apk": "/system/app/CaptivePortalLoginGoogle",
+      "NombreApp": "com.google.android.captiveportallogin",
+      "VtScore": null
+    }
+  ]
+}
