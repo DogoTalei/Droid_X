@@ -44,3 +44,7 @@ Después de activar el modo de desarrollador, regresarán al menú principal de 
 
 Una vez que estos pasos estén completos, el usuario puede conectar su dispositivo a la computadora y ejecutar tu programa. Si aparece una ventana en el teléfono pidiendo autorización para la depuración USB, deberán aceptarla.
                 ![image_alt](https://github.com/DogoTalei/Droid_X/blob/a89e15ac14776ca1c060a73500fe51396663c5b6/450_1000.png)
+
+Demostración 
+
+
