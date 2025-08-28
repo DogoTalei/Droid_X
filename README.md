@@ -43,4 +43,4 @@ Después de activar el modo de desarrollador, regresarán al menú principal de 
 ![image_alt](https://github.com/DogoTalei/Droid_X/blob/7ceb0c3d94e7578f5cf2559ef12f277d4efdf0b4/samsung-activar-depuracion-usb.png)
 
 Una vez que estos pasos estén completos, el usuario puede conectar su dispositivo a la computadora y ejecutar tu programa. Si aparece una ventana en el teléfono pidiendo autorización para la depuración USB, deberán aceptarla.
-![image_alt](https://github.com/DogoTalei/Droid_X/blob/a89e15ac14776ca1c060a73500fe51396663c5b6/450_1000.png)
+                ![image_alt](https://github.com/DogoTalei/Droid_X/blob/a89e15ac14776ca1c060a73500fe51396663c5b6/450_1000.png)
