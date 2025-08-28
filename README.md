@@ -40,4 +40,6 @@ Primero, deben ir a los Ajustes del dispositivo y encontrar la sección "Acerca 
 3. Activar la Depuración USB
 Después de activar el modo de desarrollador, regresarán al menú principal de Ajustes y buscarán una nueva opción llamada "Opciones de desarrollador". Dentro de este menú, deberán desplazarse hasta encontrar y activar la opción "Depuración USB".
 
+![image_alt](https://github.com/DogoTalei/Droid_X/blob/7ceb0c3d94e7578f5cf2559ef12f277d4efdf0b4/samsung-activar-depuracion-usb.png)
+
 Una vez que estos pasos estén completos, el usuario puede conectar su dispositivo a la computadora y ejecutar tu programa. Si aparece una ventana en el teléfono pidiendo autorización para la depuración USB, deberán aceptarla.
