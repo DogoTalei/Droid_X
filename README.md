@@ -46,5 +46,5 @@ Una vez que estos pasos estén completos, el usuario puede conectar su dispositi
                 ![image_alt](https://github.com/DogoTalei/Droid_X/blob/a89e15ac14776ca1c060a73500fe51396663c5b6/450_1000.png)
 
 Demostración 
-https://github.com/DogoTalei/Droid_X/blob/5ce4c13a4913cad6b51dba58a80b9dc2f676a4ff/2025-08-27%2023-52-23.mkv
+
 
