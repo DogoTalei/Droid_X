@@ -15,16 +15,7 @@ Gestión de Falsos Positivos: Puedes personalizar la lista de aplicaciones segur
 
 Desinstalación Selectiva e Interactiva: Presenta una lista clara de las aplicaciones detectadas como peligrosas y te permite elegir cuáles quieres desinstalar de forma segura directamente desde el dispositivo.
 
-Características Principales
-Análisis Avanzado del Sistema: Escanea el dispositivo para detectar aplicaciones con permisos de administrador o servicios de accesibilidad activos, ya que a menudo son utilizados por software malicioso.
-
-Detección de Amenazas por Permisos: Clasifica las aplicaciones en categorías como "Alto Riesgo" y "Potencial Adware" al comparar sus permisos con listas predefinidas y personalizables en el archivo config.json.
-
-Verificación con VirusTotal: Para una capa extra de seguridad, la herramienta consulta la API de VirusTotal para verificar la reputación de las aplicaciones de alto riesgo.
-
 Gestión de Falsos Positivos: Puedes personalizar la lista de aplicaciones seguras del sistema o de fabricantes de confianza en config.json para que sean ignoradas en el análisis, logrando resultados más precisos.
-
-Desinstalación Selectiva e Interactiva: Presenta una lista clara de las aplicaciones detectadas como peligrosas y te permite elegir cuáles quieres desinstalar de forma segura directamente desde el dispositivo.
 
 ¿Cómo Funciona?
 Conexión con ADB: El programa se conecta a tu dispositivo Android a través de ADB, que debe estar previamente configurado y autorizado.
