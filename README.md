@@ -48,3 +48,8 @@ Una vez que estos pasos estén completos, el usuario puede conectar su dispositi
 Demostración 
 
 
+
+
+https://github.com/user-attachments/assets/2c025b72-1ac4-4d96-ae5e-8144ce4071b8
+
+
