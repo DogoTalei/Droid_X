@@ -1,5 +1,5 @@
 # Droid_X
-![image alt]()
+![image alt](https://github.com/DogoTalei/Droid_X/blob/1ef70abacd0bee5421e845155bb8d705ca282eed/9701927f7ec084996d44b7119ef3bd90.jpg)
 
 Droid_X es una potente herramienta de seguridad para Windows, diseñada para analizar a fondo las aplicaciones de tu dispositivo Android a través de ADB (Android Debug Bridge). Te ayuda a identificar y gestionar aplicaciones potencialmente peligrosas, protegiéndote de malware, adware y permisos intrusivos.
 
