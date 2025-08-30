@@ -15,8 +15,6 @@ Gestión de Falsos Positivos: Puedes personalizar la lista de aplicaciones segur
 
 Desinstalación Selectiva e Interactiva: Presenta una lista clara de las aplicaciones detectadas como peligrosas y te permite elegir cuáles quieres desinstalar de forma segura directamente desde el dispositivo.
 
-Gestión de Falsos Positivos: Puedes personalizar la lista de aplicaciones seguras del sistema o de fabricantes de confianza en config.json para que sean ignoradas en el análisis, logrando resultados más precisos.
-
 ¿Cómo Funciona?
 Conexión con ADB: El programa se conecta a tu dispositivo Android a través de ADB, que debe estar previamente configurado y autorizado.
 
